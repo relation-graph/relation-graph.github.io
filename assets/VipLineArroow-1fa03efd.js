@@ -1,0 +1,455 @@
+
+/**
+*  亲爱的朋友：
+*      很高兴你能看到这段文字，这说明你是非常热爱技术、热爱学习的。
+*      组件中所有示例都可以通过文档 + typescript描述找到相关配置及用法
+*      示例可以为你提供额外的灵感、方便你完成开发目标、节省你工作时间
+*      以下代码也许花些时间很容易破解，但相比下面这个方案，通过破解代码来学习知识显然是不划算的：
+*      https://relation-graph.com/#/vip-services
+*      因为你的时间非常宝贵，开通会员直接查看代码学习、直接沟通解决问题，是最最高效的学习和工作方法，期待你的加入。
+**/
+              var _0x8592 = [
+    'mounted',
+    'methods',
+    'showSeeksGraph',
+    'ALTXX',
+    'CH2\x20TTN',
+    'CH1\x20AlCu',
+    'MainFrame',
+    'ArHigh',
+    'ArLow',
+    'Cool\x20Chbr',
+    'Alignment\x20Unit',
+    '子系统',
+    'debug',
+    'backgrounImageNoRepeat',
+    'moveToCenterWhenRefresh',
+    'zoomToFitWhenRefresh',
+    'useAnimationWhenRefresh',
+    'placeOtherGroup',
+    'defaultNodeWidth',
+    'defaultNodeHeight',
+    'defaultLineWidth',
+    'defaultLineColor',
+    'rgb(103,\x20194,\x2058)',
+    'showLineLabel',
+    'lineUseTextPath',
+    'defaultLineTextOffset_x',
+    'defaultLineTextOffset_y',
+    'defaultLineMarker',
+    'tree',
+    'seeks-layout-center',
+    'markerWidth',
+    'markerHeight',
+    'refX',
+    'refY',
+    'M\x200\x200,\x20V\x206,\x20L\x204\x203,\x20Z',
+    '1b82f1f9',
+    'exports',
+    'pBMvO',
+    'defaultLineShape',
+    'Qixwm',
+    'from',
+    'omlaG',
+    'defaultJunctionPoint',
+    'XtnCY',
+    'wUFUW',
+    'div',
+    'fTxCH',
+    'BmsEy',
+    '40px',
+    'EivFr',
+    '20px',
+    'QSjyR',
+    '5px',
+    'hVaWl',
+    '#efefef\x20solid\x201px',
+    'eMMRT',
+    '\x20线条：\x20',
+    'QKaMA',
+    'TvZYC',
+    'el-radio-group',
+    'mRZDH',
+    'mini',
+    'JaKns',
+    'graphOptions.defaultLineShape',
+    'FYJPK',
+    'KLKCy',
+    'el-radio-button',
+    'mrvRg',
+    'HYvEc',
+    '曲线1',
+    'uXtYs',
+    'vQejt',
+    '曲线2',
+    'lKTVf',
+    'zSfeO',
+    '曲线5',
+    'wIJgq',
+    '\x20布局方向：\x20',
+    'ghaTP',
+    'graphOptions.layouts[0].from',
+    'xwupL',
+    'axvmv',
+    'left',
+    'TfdMM',
+    'eTZZj',
+    'right',
+    'ghPXn',
+    'top',
+    'UuHRE',
+    'bottom',
+    'tPdnw',
+    '\x20连接点位置：\x20',
+    'YJGHe',
+    'graphOptions.defaultJunctionPoint',
+    'Nyokk',
+    'pAgPW',
+    'ubhrL',
+    'border',
+    'sKQMS',
+    'lEOeS',
+    'emHuW',
+    'ltrb',
+    'MzRwX',
+    '上下左右',
+    'QRbSe',
+    'Itjvr',
+    'calc(100vh\x20-\x20100px)',
+    'OdHVT',
+    'MoMsS',
+    'RelationGraph',
+    'ZXeem',
+    'graphRef',
+    '$createElement',
+    '_self',
+    'updateGraphOptions',
+    'graphOptions',
+    '$set',
+    'updateLayouterOptions',
+    'layouts',
+    'name',
+    'Demo',
+    'components',
+    'data'
+];
+(function (_0xd8b0c9, _0x4a1c02) {
+    var _0x2e4e91 = function (_0xa9e967) {
+        while (--_0xa9e967) {
+            _0xd8b0c9['push'](_0xd8b0c9['shift']());
+        }
+    };
+    _0x2e4e91(++_0x4a1c02);
+}(_0x8592, 0x196));
+var _0x1817 = function (_0x56308a, _0x53531b) {
+    _0x56308a = _0x56308a - 0x0;
+    var _0x3c90fd = _0x8592[_0x56308a];
+    return _0x3c90fd;
+};
+import { n } from './index-ef5ed09b.js';
+var i = function () {
+        var _0x2032ed = {};
+        _0x2032ed[_0x1817('0x0')] = _0x1817('0x1');
+        _0x2032ed[_0x1817('0x2')] = _0x1817('0x3');
+        _0x2032ed[_0x1817('0x4')] = _0x1817('0x5');
+        _0x2032ed[_0x1817('0x6')] = function (_0x85d4c6, _0x3e2f23, _0x5243cf) {
+            return _0x85d4c6(_0x3e2f23, _0x5243cf);
+        };
+        _0x2032ed[_0x1817('0x7')] = _0x1817('0x8');
+        _0x2032ed[_0x1817('0x9')] = function (_0x389243, _0x5b45b2, _0x5f4dc3, _0x5331a7, _0x1b073c) {
+            return _0x389243(_0x5b45b2, _0x5f4dc3, _0x5331a7, _0x1b073c);
+        };
+        _0x2032ed[_0x1817('0xa')] = _0x1817('0xb');
+        _0x2032ed[_0x1817('0xc')] = _0x1817('0xd');
+        _0x2032ed[_0x1817('0xe')] = _0x1817('0xf');
+        _0x2032ed[_0x1817('0x10')] = _0x1817('0x11');
+        _0x2032ed[_0x1817('0x12')] = _0x1817('0x13');
+        _0x2032ed[_0x1817('0x14')] = function (_0x25e9a6, _0x4a347b, _0x2afad3, _0x59ba72, _0x4bacee) {
+            return _0x25e9a6(_0x4a347b, _0x2afad3, _0x59ba72, _0x4bacee);
+        };
+        _0x2032ed[_0x1817('0x15')] = _0x1817('0x16');
+        _0x2032ed[_0x1817('0x17')] = _0x1817('0x18');
+        _0x2032ed[_0x1817('0x19')] = _0x1817('0x1a');
+        _0x2032ed[_0x1817('0x1b')] = function (_0x4efa55, _0x3ab9c0, _0x10c6c4, _0x4d0ee2) {
+            return _0x4efa55(_0x3ab9c0, _0x10c6c4, _0x4d0ee2);
+        };
+        _0x2032ed[_0x1817('0x1c')] = _0x1817('0x1d');
+        _0x2032ed[_0x1817('0x1e')] = function (_0x3c8323, _0xb06a0c, _0x58b786, _0x307398) {
+            return _0x3c8323(_0xb06a0c, _0x58b786, _0x307398);
+        };
+        _0x2032ed[_0x1817('0x1f')] = _0x1817('0x20');
+        _0x2032ed[_0x1817('0x21')] = function (_0x3d4769, _0x5e1968, _0x43ef6d, _0x36d608) {
+            return _0x3d4769(_0x5e1968, _0x43ef6d, _0x36d608);
+        };
+        _0x2032ed[_0x1817('0x22')] = _0x1817('0x23');
+        _0x2032ed[_0x1817('0x24')] = function (_0x4e9c15, _0x599471, _0x1ff262, _0x1aea32) {
+            return _0x4e9c15(_0x599471, _0x1ff262, _0x1aea32);
+        };
+        _0x2032ed[_0x1817('0x25')] = _0x1817('0x26');
+        _0x2032ed[_0x1817('0x27')] = _0x1817('0x28');
+        _0x2032ed[_0x1817('0x29')] = _0x1817('0x2a');
+        _0x2032ed[_0x1817('0x2b')] = function (_0x48c177, _0xadb1a9, _0x2d9460, _0x3b7ef5) {
+            return _0x48c177(_0xadb1a9, _0x2d9460, _0x3b7ef5);
+        };
+        _0x2032ed[_0x1817('0x2c')] = _0x1817('0x2d');
+        _0x2032ed[_0x1817('0x2e')] = function (_0x1df385, _0x44236b, _0x24dc71, _0x3325b8) {
+            return _0x1df385(_0x44236b, _0x24dc71, _0x3325b8);
+        };
+        _0x2032ed[_0x1817('0x2f')] = _0x1817('0x30');
+        _0x2032ed[_0x1817('0x31')] = _0x1817('0x32');
+        _0x2032ed[_0x1817('0x33')] = _0x1817('0x34');
+        _0x2032ed[_0x1817('0x35')] = _0x1817('0x36');
+        _0x2032ed[_0x1817('0x37')] = _0x1817('0x38');
+        _0x2032ed[_0x1817('0x39')] = function (_0x56abaa, _0x5e6baa, _0x36f974, _0x226c38) {
+            return _0x56abaa(_0x5e6baa, _0x36f974, _0x226c38);
+        };
+        _0x2032ed[_0x1817('0x3a')] = function (_0x57e5c9, _0x29547f, _0x2dedf3, _0x3c301f) {
+            return _0x57e5c9(_0x29547f, _0x2dedf3, _0x3c301f);
+        };
+        _0x2032ed[_0x1817('0x3b')] = _0x1817('0x3c');
+        _0x2032ed[_0x1817('0x3d')] = function (_0x25fffb, _0x1c0a03, _0x56d73c, _0x135081) {
+            return _0x25fffb(_0x1c0a03, _0x56d73c, _0x135081);
+        };
+        _0x2032ed[_0x1817('0x3e')] = function (_0x217c61, _0x2d551e, _0x534638, _0x46c072) {
+            return _0x217c61(_0x2d551e, _0x534638, _0x46c072);
+        };
+        _0x2032ed[_0x1817('0x3f')] = _0x1817('0x40');
+        _0x2032ed[_0x1817('0x41')] = _0x1817('0x42');
+        _0x2032ed[_0x1817('0x43')] = function (_0x44525e, _0x215f25, _0x2a2060, _0x297410, _0x81f568) {
+            return _0x44525e(_0x215f25, _0x2a2060, _0x297410, _0x81f568);
+        };
+        _0x2032ed[_0x1817('0x44')] = _0x1817('0x45');
+        _0x2032ed[_0x1817('0x46')] = function (_0x1e5252, _0x376927, _0x1cccbc) {
+            return _0x1e5252(_0x376927, _0x1cccbc);
+        };
+        _0x2032ed[_0x1817('0x47')] = _0x1817('0x48');
+        _0x2032ed[_0x1817('0x49')] = _0x1817('0x4a');
+        var _0x5310bd = this, _0x42ceb1 = _0x5310bd[_0x1817('0x4b')], _0x498104 = _0x5310bd[_0x1817('0x4c')]['_c'] || _0x42ceb1;
+        return _0x2032ed[_0x1817('0x6')](_0x498104, _0x2032ed[_0x1817('0x7')], [
+            _0x2032ed[_0x1817('0x9')](_0x498104, _0x2032ed[_0x1817('0x7')], {
+                'staticStyle': {
+                    'height': _0x2032ed[_0x1817('0xa')],
+                    'padding-left': _0x2032ed[_0x1817('0xc')],
+                    'padding-top': _0x2032ed[_0x1817('0xe')],
+                    'border-bottom': _0x2032ed[_0x1817('0x10')]
+                }
+            }, [
+                _0x5310bd['_v'](_0x2032ed[_0x1817('0x12')]),
+                _0x2032ed[_0x1817('0x14')](_0x498104, _0x2032ed[_0x1817('0x15')], {
+                    'attrs': { 'size': _0x2032ed[_0x1817('0x17')] },
+                    'on': { 'change': _0x5310bd[_0x1817('0x4d')] },
+                    'model': {
+                        'value': _0x5310bd[_0x1817('0x4e')][_0x1817('0x1')],
+                        'callback': function (_0x23cc73) {
+                            _0x5310bd[_0x1817('0x4f')](_0x5310bd[_0x1817('0x4e')], _0x2032ed[_0x1817('0x0')], _0x23cc73);
+                        },
+                        'expression': _0x2032ed[_0x1817('0x19')]
+                    }
+                }, [
+                    _0x2032ed[_0x1817('0x1b')](_0x498104, _0x2032ed[_0x1817('0x1c')], { 'attrs': { 'label': void 0x0 } }, [_0x5310bd['_v']('自动')]),
+                    _0x2032ed[_0x1817('0x1b')](_0x498104, _0x2032ed[_0x1817('0x1c')], { 'attrs': { 'label': 0x1 } }, [_0x5310bd['_v']('直线')]),
+                    _0x2032ed[_0x1817('0x1e')](_0x498104, _0x2032ed[_0x1817('0x1c')], { 'attrs': { 'label': 0x2 } }, [_0x5310bd['_v'](_0x2032ed[_0x1817('0x1f')])]),
+                    _0x2032ed[_0x1817('0x21')](_0x498104, _0x2032ed[_0x1817('0x1c')], { 'attrs': { 'label': 0x3 } }, [_0x5310bd['_v'](_0x2032ed[_0x1817('0x22')])]),
+                    _0x2032ed[_0x1817('0x24')](_0x498104, _0x2032ed[_0x1817('0x1c')], { 'attrs': { 'label': 0x4 } }, [_0x5310bd['_v']('折线')]),
+                    _0x2032ed[_0x1817('0x24')](_0x498104, _0x2032ed[_0x1817('0x1c')], { 'attrs': { 'label': 0x5 } }, [_0x5310bd['_v'](_0x2032ed[_0x1817('0x25')])])
+                ], 0x1),
+                _0x5310bd['_v'](_0x2032ed[_0x1817('0x27')]),
+                _0x2032ed[_0x1817('0x14')](_0x498104, _0x2032ed[_0x1817('0x15')], {
+                    'attrs': { 'size': _0x2032ed[_0x1817('0x17')] },
+                    'on': { 'change': _0x5310bd[_0x1817('0x50')] },
+                    'model': {
+                        'value': _0x5310bd[_0x1817('0x4e')][_0x1817('0x51')][0x0][_0x1817('0x3')],
+                        'callback': function (_0x105a9b) {
+                            _0x5310bd[_0x1817('0x4f')](_0x5310bd[_0x1817('0x4e')][_0x1817('0x51')][0x0], _0x2032ed[_0x1817('0x2')], _0x105a9b);
+                        },
+                        'expression': _0x2032ed[_0x1817('0x29')]
+                    }
+                }, [
+                    _0x2032ed[_0x1817('0x2b')](_0x498104, _0x2032ed[_0x1817('0x1c')], { 'attrs': { 'label': _0x2032ed[_0x1817('0x2c')] } }, [_0x5310bd['_v'](_0x2032ed[_0x1817('0x2c')])]),
+                    _0x2032ed[_0x1817('0x2e')](_0x498104, _0x2032ed[_0x1817('0x1c')], { 'attrs': { 'label': _0x2032ed[_0x1817('0x2f')] } }, [_0x5310bd['_v'](_0x2032ed[_0x1817('0x2f')])]),
+                    _0x2032ed[_0x1817('0x2e')](_0x498104, _0x2032ed[_0x1817('0x1c')], { 'attrs': { 'label': _0x2032ed[_0x1817('0x31')] } }, [_0x5310bd['_v'](_0x2032ed[_0x1817('0x31')])]),
+                    _0x2032ed[_0x1817('0x2e')](_0x498104, _0x2032ed[_0x1817('0x1c')], { 'attrs': { 'label': _0x2032ed[_0x1817('0x33')] } }, [_0x5310bd['_v'](_0x2032ed[_0x1817('0x33')])])
+                ], 0x1),
+                _0x5310bd['_v'](_0x2032ed[_0x1817('0x35')]),
+                _0x2032ed[_0x1817('0x14')](_0x498104, _0x2032ed[_0x1817('0x15')], {
+                    'attrs': { 'size': _0x2032ed[_0x1817('0x17')] },
+                    'on': { 'change': _0x5310bd[_0x1817('0x50')] },
+                    'model': {
+                        'value': _0x5310bd[_0x1817('0x4e')][_0x1817('0x5')],
+                        'callback': function (_0x2691f3) {
+                            _0x5310bd[_0x1817('0x4f')](_0x5310bd[_0x1817('0x4e')], _0x2032ed[_0x1817('0x4')], _0x2691f3);
+                        },
+                        'expression': _0x2032ed[_0x1817('0x37')]
+                    }
+                }, [
+                    _0x2032ed[_0x1817('0x39')](_0x498104, _0x2032ed[_0x1817('0x1c')], { 'attrs': { 'label': void 0x0 } }, [_0x5310bd['_v']('自动')]),
+                    _0x2032ed[_0x1817('0x3a')](_0x498104, _0x2032ed[_0x1817('0x1c')], { 'attrs': { 'label': _0x2032ed[_0x1817('0x3b')] } }, [_0x5310bd['_v']('边缘')]),
+                    _0x2032ed[_0x1817('0x3d')](_0x498104, _0x2032ed[_0x1817('0x1c')], { 'attrs': { 'label': 'lr' } }, [_0x5310bd['_v']('左右')]),
+                    _0x2032ed[_0x1817('0x3e')](_0x498104, _0x2032ed[_0x1817('0x1c')], { 'attrs': { 'label': 'tb' } }, [_0x5310bd['_v']('上下')]),
+                    _0x2032ed[_0x1817('0x3e')](_0x498104, _0x2032ed[_0x1817('0x1c')], { 'attrs': { 'label': _0x2032ed[_0x1817('0x3f')] } }, [_0x5310bd['_v'](_0x2032ed[_0x1817('0x41')])])
+                ], 0x1)
+            ], 0x1),
+            _0x2032ed[_0x1817('0x43')](_0x498104, _0x2032ed[_0x1817('0x7')], { 'staticStyle': { 'height': _0x2032ed[_0x1817('0x44')] } }, [_0x2032ed[_0x1817('0x46')](_0x498104, _0x2032ed[_0x1817('0x47')], {
+                    'ref': _0x2032ed[_0x1817('0x49')],
+                    'attrs': { 'options': _0x5310bd[_0x1817('0x4e')] }
+                })], 0x1)
+        ]);
+    }, s = [];
+const l = {}, p = {}, r = {};
+p[_0x1817('0x52')] = _0x1817('0x53');
+p[_0x1817('0x54')] = {};
+p[_0x1817('0x55')] = function () {
+    return { graphOptions: l };
+};
+p[_0x1817('0x56')] = function () {
+    this.showSeeksGraph();
+};
+p[_0x1817('0x57')] = {};
+p[_0x1817('0x57')][_0x1817('0x58')] = function () {
+    var _0x3c4581 = {
+        fCfPB: _0x1817('0x59'),
+        UJCmF: _0x1817('0x5a'),
+        AfuJG: _0x1817('0x5b'),
+        ZfdWv: _0x1817('0x5c'),
+        TmRvK: _0x1817('0x5d'),
+        SgEKZ: _0x1817('0x5e'),
+        oxPqi: _0x1817('0x5f'),
+        gzeQM: _0x1817('0x60'),
+        IgPoO: _0x1817('0x61')
+    };
+    const _0xab65fe = {
+        rootId: '2',
+        nodes: [
+            {
+                id: '2',
+                text: _0x3c4581.fCfPB
+            },
+            {
+                id: '3',
+                text: _0x3c4581.UJCmF
+            },
+            {
+                id: '4',
+                text: _0x3c4581.AfuJG
+            },
+            {
+                id: '5',
+                text: _0x3c4581.ZfdWv
+            },
+            {
+                id: '14',
+                text: _0x3c4581.TmRvK
+            },
+            {
+                id: '15',
+                text: _0x3c4581.SgEKZ
+            },
+            {
+                id: '20',
+                text: 'N2'
+            },
+            {
+                id: '22',
+                text: _0x3c4581.oxPqi
+            },
+            {
+                id: '24',
+                text: _0x3c4581.gzeQM
+            }
+        ],
+        lines: [
+            {
+                from: '2',
+                to: '5',
+                text: _0x3c4581.IgPoO,
+                showEndArrow: !0x1
+            },
+            {
+                from: '2',
+                to: '3',
+                text: _0x3c4581.IgPoO,
+                showEndArrow: !0x1
+            },
+            {
+                from: '2',
+                to: '4',
+                text: _0x3c4581.IgPoO,
+                showEndArrow: !0x1
+            },
+            {
+                from: '3',
+                to: '20',
+                text: _0x3c4581.IgPoO
+            },
+            {
+                from: '4',
+                to: '15',
+                text: _0x3c4581.IgPoO
+            },
+            {
+                from: '4',
+                to: '14',
+                text: _0x3c4581.IgPoO
+            },
+            {
+                from: '5',
+                to: '24',
+                text: _0x3c4581.IgPoO
+            },
+            {
+                from: '5',
+                to: '22',
+                text: _0x3c4581.IgPoO
+            }
+        ]
+    };
+    this.$refs.graphRef.setJsonData(_0xab65fe, _0x455b78 => {
+    });
+};
+p[_0x1817('0x57')][_0x1817('0x4d')] = function () {
+    const _0x3245b4 = this.$refs.graphRef.getInstance();
+    _0x3245b4.options.defaultLineShape = this.graphOptions.defaultLineShape;
+};
+p[_0x1817('0x57')][_0x1817('0x50')] = async function () {
+    const _0x507c72 = this.$refs.graphRef.getInstance();
+    await _0x507c72.setOptions(JSON.parse(JSON.stringify(this.graphOptions))), await _0x507c72.refresh();
+};
+l[_0x1817('0x62')] = !0x1;
+l[_0x1817('0x63')] = !0x0;
+l[_0x1817('0x64')] = !0x0;
+l[_0x1817('0x65')] = !0x0;
+l[_0x1817('0x66')] = !0x1;
+l[_0x1817('0x67')] = !0x0;
+l[_0x1817('0x5')] = 'lr';
+l[_0x1817('0x68')] = 0x96;
+l[_0x1817('0x69')] = 0x1e;
+l[_0x1817('0x6a')] = 0xf;
+l[_0x1817('0x1')] = 0x2;
+l[_0x1817('0x6b')] = _0x1817('0x6c');
+l[_0x1817('0x6d')] = !0x1;
+l[_0x1817('0x6e')] = !0x0;
+l[_0x1817('0x6f')] = 0x0;
+l[_0x1817('0x70')] = 0x0;
+l[_0x1817('0x71')] = {};
+l[_0x1817('0x51')] = [{
+        label: '中心',
+        layoutName: _0x1817('0x72'),
+        from: _0x1817('0x2d'),
+        layoutClassName: _0x1817('0x73')
+    }];
+l[_0x1817('0x71')][_0x1817('0x74')] = 0x50;
+l[_0x1817('0x71')][_0x1817('0x75')] = 0x50;
+l[_0x1817('0x71')][_0x1817('0x76')] = 0x2;
+l[_0x1817('0x71')][_0x1817('0x77')] = 0x3;
+l[_0x1817('0x71')][_0x1817('0x55')] = _0x1817('0x78');
+var d = n(p, i, s, !0x1, u, _0x1817('0x79'), null, null);
+function u(_0xbe28b1) {
+    for (let _0x1f0af3 in r)
+        this[_0x1f0af3] = r[_0x1f0af3];
+}
+const h = function () {
+    return d[_0x1817('0x7a')];
+}();
+export {
+    h as default
+};
