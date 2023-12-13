@@ -1,0 +1,413 @@
+
+/**
+*  亲爱的朋友：
+*      很高兴你能看到这段文字，这说明你是非常热爱技术、热爱学习的。
+*      组件中所有示例都可以通过文档 + typescript描述找到相关配置及用法
+*      示例可以为你提供额外的灵感、方便你完成开发目标、节省你工作时间
+*      以下代码也许花些时间很容易破解，但相比下面这个方案，通过破解代码来学习知识显然是不划算的：
+*      https://relation-graph.com/#/vip-services
+*      因为你的时间非常宝贵，开通会员直接查看代码学习、直接沟通解决问题，是最最高效的学习和工作方法，期待你的加入。
+**/
+              var _0xbe38 = [
+    '关系2',
+    '关系3',
+    '#67C23A',
+    'useAnimationWhenRefresh',
+    'exports',
+    'eURfg',
+    'JDENC',
+    'div',
+    'BaSPA',
+    'CzNCD',
+    '20px',
+    'CRtjw',
+    '5px',
+    'yrlUm',
+    '#efefef\x20solid\x201px',
+    'hVJlC',
+    '12px',
+    'YCKeg',
+    'Sgicc',
+    '\x20工具栏形态：\x20',
+    'YRrzb',
+    'KadCe',
+    'el-radio-group',
+    'SXOjk',
+    'mini',
+    'kmZYh',
+    'toolBarDirection',
+    'iaXcj',
+    'pGKck',
+    'el-radio-button',
+    'JtVla',
+    '纵向显示',
+    'KtwWD',
+    '横向显示',
+    'gwYvg',
+    'xWWFc',
+    '\x20工具栏横向位置：\x20',
+    'geXvq',
+    'jOcqb',
+    'toolBarPositionH',
+    'QTyjE',
+    'JFphE',
+    'left',
+    'UDhuJ',
+    'SMhdK',
+    'center',
+    'kviDm',
+    'oROmi',
+    'right',
+    'vAvJY',
+    'EsGmX',
+    '\x20工具栏纵向位置：\x20',
+    'vdVGJ',
+    'toolBarPositionV',
+    'hsFUg',
+    'PNeIv',
+    'top',
+    'iDEox',
+    'oATIv',
+    'bottom',
+    'dqosU',
+    '\x20工具栏样式：\x20',
+    'iVuSp',
+    'toolBarStyle',
+    'EslJA',
+    'zOcGS',
+    'ucGce',
+    '样式1',
+    'HwtLB',
+    '样式2',
+    'jRwpt',
+    'JLpUE',
+    '样式3',
+    'OaTQt',
+    'cReKp',
+    'NCoWz',
+    'my-toolbar-style-',
+    'GXTaD',
+    'sRlUb',
+    'RelationGraph',
+    'Hphwy',
+    'graphRef',
+    '$createElement',
+    '_self',
+    'buttonPanelHeight',
+    'setGraphOptions',
+    'isMobile',
+    'calc(100vh\x20-\x20',
+    'px)',
+    'graphOptions',
+    'name',
+    'Demo',
+    'components',
+    'data',
+    'computed',
+    'mounted',
+    'methods',
+    'showHTree',
+    'yellow',
+    '#43a2f1',
+    '关系1'
+];
+(function (_0x5740ea, _0x39e3d8) {
+    var _0x5a93c6 = function (_0x3d2849) {
+        while (--_0x3d2849) {
+            _0x5740ea['push'](_0x5740ea['shift']());
+        }
+    };
+    _0x5a93c6(++_0x39e3d8);
+}(_0xbe38, 0x199));
+var _0x195f = function (_0x8d3dde, _0x24ca6c) {
+    _0x8d3dde = _0x8d3dde - 0x0;
+    var _0x3acf29 = _0xbe38[_0x8d3dde];
+    return _0x3acf29;
+};
+import {
+    m as _0x3810c4,
+    n
+} from './index-f64bbabb.js';
+var l = function () {
+        var _0x1913c9 = {};
+        _0x1913c9[_0x195f('0x0')] = function (_0x37bd9b, _0xf932d1, _0x1e383c) {
+            return _0x37bd9b(_0xf932d1, _0x1e383c);
+        };
+        _0x1913c9[_0x195f('0x1')] = _0x195f('0x2');
+        _0x1913c9[_0x195f('0x3')] = function (_0x16423d, _0x4b329c, _0x328873, _0x49d7f0, _0x261e25) {
+            return _0x16423d(_0x4b329c, _0x328873, _0x49d7f0, _0x261e25);
+        };
+        _0x1913c9[_0x195f('0x4')] = _0x195f('0x5');
+        _0x1913c9[_0x195f('0x6')] = _0x195f('0x7');
+        _0x1913c9[_0x195f('0x8')] = _0x195f('0x9');
+        _0x1913c9[_0x195f('0xa')] = _0x195f('0xb');
+        _0x1913c9[_0x195f('0xc')] = function (_0x390cdf, _0x530f69) {
+            return _0x390cdf + _0x530f69;
+        };
+        _0x1913c9[_0x195f('0xd')] = _0x195f('0xe');
+        _0x1913c9[_0x195f('0xf')] = function (_0x1819a0, _0x4a69dc, _0x25ca70, _0xd73c2e, _0x4e4115) {
+            return _0x1819a0(_0x4a69dc, _0x25ca70, _0xd73c2e, _0x4e4115);
+        };
+        _0x1913c9[_0x195f('0x10')] = _0x195f('0x11');
+        _0x1913c9[_0x195f('0x12')] = _0x195f('0x13');
+        _0x1913c9[_0x195f('0x14')] = _0x195f('0x15');
+        _0x1913c9[_0x195f('0x16')] = function (_0xd655b1, _0x12e512, _0x34113f, _0x22ea77) {
+            return _0xd655b1(_0x12e512, _0x34113f, _0x22ea77);
+        };
+        _0x1913c9[_0x195f('0x17')] = _0x195f('0x18');
+        _0x1913c9[_0x195f('0x19')] = _0x195f('0x1a');
+        _0x1913c9[_0x195f('0x1b')] = _0x195f('0x1c');
+        _0x1913c9[_0x195f('0x1d')] = function (_0x28dffa, _0xd8b057) {
+            return _0x28dffa(_0xd8b057);
+        };
+        _0x1913c9[_0x195f('0x1e')] = _0x195f('0x1f');
+        _0x1913c9[_0x195f('0x20')] = function (_0x52d030, _0x35f99a, _0x488734, _0x50cbff, _0x3d2b4c) {
+            return _0x52d030(_0x35f99a, _0x488734, _0x50cbff, _0x3d2b4c);
+        };
+        _0x1913c9[_0x195f('0x21')] = _0x195f('0x22');
+        _0x1913c9[_0x195f('0x23')] = function (_0xe70b09, _0x496a63, _0x5c6c35, _0x3eadae) {
+            return _0xe70b09(_0x496a63, _0x5c6c35, _0x3eadae);
+        };
+        _0x1913c9[_0x195f('0x24')] = _0x195f('0x25');
+        _0x1913c9[_0x195f('0x26')] = function (_0x31b60c, _0x2a8652, _0x49c62f, _0x31fa69) {
+            return _0x31b60c(_0x2a8652, _0x49c62f, _0x31fa69);
+        };
+        _0x1913c9[_0x195f('0x27')] = _0x195f('0x28');
+        _0x1913c9[_0x195f('0x29')] = function (_0x52a466, _0x2b3a15, _0x4d3b04, _0x3451f8) {
+            return _0x52a466(_0x2b3a15, _0x4d3b04, _0x3451f8);
+        };
+        _0x1913c9[_0x195f('0x2a')] = _0x195f('0x2b');
+        _0x1913c9[_0x195f('0x2c')] = function (_0x2404bc, _0x3d5434) {
+            return _0x2404bc(_0x3d5434);
+        };
+        _0x1913c9[_0x195f('0x2d')] = _0x195f('0x2e');
+        _0x1913c9[_0x195f('0x2f')] = _0x195f('0x30');
+        _0x1913c9[_0x195f('0x31')] = function (_0x3afdbb, _0x23a5a4, _0x43a042, _0x447e3b) {
+            return _0x3afdbb(_0x23a5a4, _0x43a042, _0x447e3b);
+        };
+        _0x1913c9[_0x195f('0x32')] = _0x195f('0x33');
+        _0x1913c9[_0x195f('0x34')] = function (_0x2f8881, _0x457b4f, _0x48dde1, _0xc8f805) {
+            return _0x2f8881(_0x457b4f, _0x48dde1, _0xc8f805);
+        };
+        _0x1913c9[_0x195f('0x35')] = _0x195f('0x36');
+        _0x1913c9[_0x195f('0x37')] = _0x195f('0x38');
+        _0x1913c9[_0x195f('0x39')] = _0x195f('0x3a');
+        _0x1913c9[_0x195f('0x3b')] = function (_0x5034dd, _0x48df59, _0x423959, _0x14e9c8) {
+            return _0x5034dd(_0x48df59, _0x423959, _0x14e9c8);
+        };
+        _0x1913c9[_0x195f('0x3c')] = function (_0x3fb54a, _0x1291e4, _0x14da89, _0x2fa863) {
+            return _0x3fb54a(_0x1291e4, _0x14da89, _0x2fa863);
+        };
+        _0x1913c9[_0x195f('0x3d')] = _0x195f('0x3e');
+        _0x1913c9[_0x195f('0x3f')] = _0x195f('0x40');
+        _0x1913c9[_0x195f('0x41')] = function (_0x30eb25, _0x165549, _0x3aec1b, _0x45538f) {
+            return _0x30eb25(_0x165549, _0x3aec1b, _0x45538f);
+        };
+        _0x1913c9[_0x195f('0x42')] = _0x195f('0x43');
+        _0x1913c9[_0x195f('0x44')] = function (_0x4babf0, _0x12ffa2, _0x3a3f28, _0x51cdbd, _0x5ef17c) {
+            return _0x4babf0(_0x12ffa2, _0x3a3f28, _0x51cdbd, _0x5ef17c);
+        };
+        _0x1913c9[_0x195f('0x45')] = function (_0x3b1d2f, _0x3e70ee) {
+            return _0x3b1d2f + _0x3e70ee;
+        };
+        _0x1913c9[_0x195f('0x46')] = _0x195f('0x47');
+        _0x1913c9[_0x195f('0x48')] = function (_0x2124c4, _0x4d0961) {
+            return _0x2124c4 + _0x4d0961;
+        };
+        _0x1913c9[_0x195f('0x49')] = _0x195f('0x4a');
+        _0x1913c9[_0x195f('0x4b')] = _0x195f('0x4c');
+        var _0x6d8dbc = this, _0x313c78 = _0x6d8dbc[_0x195f('0x4d')], _0x1092dd = _0x6d8dbc[_0x195f('0x4e')]['_c'] || _0x313c78;
+        return _0x1913c9[_0x195f('0x0')](_0x1092dd, _0x1913c9[_0x195f('0x1')], [
+            _0x1913c9[_0x195f('0x3')](_0x1092dd, _0x1913c9[_0x195f('0x1')], {
+                'staticStyle': {
+                    'padding-left': _0x1913c9[_0x195f('0x4')],
+                    'padding-top': _0x1913c9[_0x195f('0x6')],
+                    'border-bottom': _0x1913c9[_0x195f('0x8')],
+                    'font-size': _0x1913c9[_0x195f('0xa')]
+                },
+                'style': { 'height': _0x1913c9[_0x195f('0xc')](_0x6d8dbc[_0x195f('0x4f')], 'px') }
+            }, [
+                _0x6d8dbc['_v'](_0x1913c9[_0x195f('0xd')]),
+                _0x1913c9[_0x195f('0xf')](_0x1092dd, _0x1913c9[_0x195f('0x10')], {
+                    'attrs': { 'size': _0x1913c9[_0x195f('0x12')] },
+                    'on': { 'change': _0x6d8dbc[_0x195f('0x50')] },
+                    'model': {
+                        'value': _0x6d8dbc[_0x195f('0x15')],
+                        'callback': function (_0x338732) {
+                            _0x6d8dbc[_0x195f('0x15')] = _0x338732;
+                        },
+                        'expression': _0x1913c9[_0x195f('0x14')]
+                    }
+                }, [
+                    _0x1913c9[_0x195f('0x16')](_0x1092dd, _0x1913c9[_0x195f('0x17')], { 'attrs': { 'label': 'v' } }, [_0x6d8dbc['_v'](_0x1913c9[_0x195f('0x19')])]),
+                    _0x1913c9[_0x195f('0x16')](_0x1092dd, _0x1913c9[_0x195f('0x17')], { 'attrs': { 'label': 'h' } }, [_0x6d8dbc['_v'](_0x1913c9[_0x195f('0x1b')])])
+                ], 0x1),
+                _0x6d8dbc[_0x195f('0x51')] ? _0x1913c9[_0x195f('0x1d')](_0x1092dd, 'br') : _0x6d8dbc['_e'](),
+                _0x6d8dbc['_v'](_0x1913c9[_0x195f('0x1e')]),
+                _0x1913c9[_0x195f('0x20')](_0x1092dd, _0x1913c9[_0x195f('0x10')], {
+                    'attrs': { 'size': _0x1913c9[_0x195f('0x12')] },
+                    'on': { 'change': _0x6d8dbc[_0x195f('0x50')] },
+                    'model': {
+                        'value': _0x6d8dbc[_0x195f('0x22')],
+                        'callback': function (_0x2edccc) {
+                            _0x6d8dbc[_0x195f('0x22')] = _0x2edccc;
+                        },
+                        'expression': _0x1913c9[_0x195f('0x21')]
+                    }
+                }, [
+                    _0x1913c9[_0x195f('0x23')](_0x1092dd, _0x1913c9[_0x195f('0x17')], { 'attrs': { 'label': _0x1913c9[_0x195f('0x24')] } }, [_0x6d8dbc['_v'](_0x1913c9[_0x195f('0x24')])]),
+                    _0x1913c9[_0x195f('0x26')](_0x1092dd, _0x1913c9[_0x195f('0x17')], { 'attrs': { 'label': _0x1913c9[_0x195f('0x27')] } }, [_0x6d8dbc['_v'](_0x1913c9[_0x195f('0x27')])]),
+                    _0x1913c9[_0x195f('0x29')](_0x1092dd, _0x1913c9[_0x195f('0x17')], { 'attrs': { 'label': _0x1913c9[_0x195f('0x2a')] } }, [_0x6d8dbc['_v'](_0x1913c9[_0x195f('0x2a')])])
+                ], 0x1),
+                _0x6d8dbc[_0x195f('0x51')] ? _0x1913c9[_0x195f('0x2c')](_0x1092dd, 'br') : _0x6d8dbc['_e'](),
+                _0x6d8dbc['_v'](_0x1913c9[_0x195f('0x2d')]),
+                _0x1913c9[_0x195f('0x20')](_0x1092dd, _0x1913c9[_0x195f('0x10')], {
+                    'attrs': { 'size': _0x1913c9[_0x195f('0x12')] },
+                    'on': { 'change': _0x6d8dbc[_0x195f('0x50')] },
+                    'model': {
+                        'value': _0x6d8dbc[_0x195f('0x30')],
+                        'callback': function (_0x40bdcc) {
+                            _0x6d8dbc[_0x195f('0x30')] = _0x40bdcc;
+                        },
+                        'expression': _0x1913c9[_0x195f('0x2f')]
+                    }
+                }, [
+                    _0x1913c9[_0x195f('0x31')](_0x1092dd, _0x1913c9[_0x195f('0x17')], { 'attrs': { 'label': _0x1913c9[_0x195f('0x32')] } }, [_0x6d8dbc['_v'](_0x1913c9[_0x195f('0x32')])]),
+                    _0x1913c9[_0x195f('0x31')](_0x1092dd, _0x1913c9[_0x195f('0x17')], { 'attrs': { 'label': _0x1913c9[_0x195f('0x27')] } }, [_0x6d8dbc['_v'](_0x1913c9[_0x195f('0x27')])]),
+                    _0x1913c9[_0x195f('0x34')](_0x1092dd, _0x1913c9[_0x195f('0x17')], { 'attrs': { 'label': _0x1913c9[_0x195f('0x35')] } }, [_0x6d8dbc['_v'](_0x1913c9[_0x195f('0x35')])])
+                ], 0x1),
+                _0x6d8dbc[_0x195f('0x51')] ? _0x1913c9[_0x195f('0x2c')](_0x1092dd, 'br') : _0x6d8dbc['_e'](),
+                _0x6d8dbc['_v'](_0x1913c9[_0x195f('0x37')]),
+                _0x1913c9[_0x195f('0x20')](_0x1092dd, _0x1913c9[_0x195f('0x10')], {
+                    'attrs': { 'size': _0x1913c9[_0x195f('0x12')] },
+                    'on': { 'change': _0x6d8dbc[_0x195f('0x50')] },
+                    'model': {
+                        'value': _0x6d8dbc[_0x195f('0x3a')],
+                        'callback': function (_0x15ac6a) {
+                            _0x6d8dbc[_0x195f('0x3a')] = _0x15ac6a;
+                        },
+                        'expression': _0x1913c9[_0x195f('0x39')]
+                    }
+                }, [
+                    _0x1913c9[_0x195f('0x3b')](_0x1092dd, _0x1913c9[_0x195f('0x17')], { 'attrs': { 'label': '' } }, [_0x6d8dbc['_v']('默认')]),
+                    _0x1913c9[_0x195f('0x3c')](_0x1092dd, _0x1913c9[_0x195f('0x17')], { 'attrs': { 'label': '1' } }, [_0x6d8dbc['_v'](_0x1913c9[_0x195f('0x3d')])]),
+                    _0x1913c9[_0x195f('0x3c')](_0x1092dd, _0x1913c9[_0x195f('0x17')], { 'attrs': { 'label': '2' } }, [_0x6d8dbc['_v'](_0x1913c9[_0x195f('0x3f')])]),
+                    _0x1913c9[_0x195f('0x41')](_0x1092dd, _0x1913c9[_0x195f('0x17')], { 'attrs': { 'label': '3' } }, [_0x6d8dbc['_v'](_0x1913c9[_0x195f('0x42')])])
+                ], 0x1)
+            ], 0x1),
+            _0x1913c9[_0x195f('0x44')](_0x1092dd, _0x1913c9[_0x195f('0x1')], {
+                'class': [_0x1913c9[_0x195f('0x45')](_0x1913c9[_0x195f('0x46')], _0x6d8dbc[_0x195f('0x3a')])],
+                'style': { 'height': _0x195f('0x52') + _0x1913c9[_0x195f('0x48')](_0x6d8dbc[_0x195f('0x4f')], 0x3c) + _0x195f('0x53') }
+            }, [_0x1913c9[_0x195f('0x0')](_0x1092dd, _0x1913c9[_0x195f('0x49')], {
+                    'ref': _0x1913c9[_0x195f('0x4b')],
+                    'attrs': { 'options': _0x6d8dbc[_0x195f('0x54')] }
+                })], 0x1)
+        ]);
+    }, s = [];
+const p = {}, h = {}, a = {};
+h[_0x195f('0x55')] = _0x195f('0x56');
+h[_0x195f('0x57')] = {};
+h[_0x195f('0x58')] = function () {
+    var _0x32187b = {
+        DfDUq: _0x195f('0x2b'),
+        ePBaM: _0x195f('0x28')
+    };
+    return {
+        toolBarStyle: '',
+        toolBarDirection: 'v',
+        toolBarPositionH: _0x32187b.DfDUq,
+        toolBarPositionV: _0x32187b.ePBaM,
+        graphOptions: p
+    };
+};
+h[_0x195f('0x59')] = { ..._0x3810c4([_0x195f('0x51')]) };
+h[_0x195f('0x5a')] = function () {
+    this.showHTree();
+};
+h[_0x195f('0x5b')] = {};
+h[_0x195f('0x5b')][_0x195f('0x5c')] = function () {
+    var _0x27fe18 = {
+        pUbvc: _0x195f('0x5d'),
+        ATVOu: _0x195f('0x5e'),
+        QursO: _0x195f('0x5f'),
+        UyxcV: _0x195f('0x60'),
+        BxzAH: _0x195f('0x61'),
+        TRmUC: _0x195f('0x62')
+    };
+    const _0x12ebbf = {
+        rootId: 'a',
+        nodes: [
+            {
+                id: 'a',
+                text: 'A',
+                borderColor: _0x27fe18.pUbvc
+            },
+            {
+                id: 'b',
+                text: 'B',
+                color: _0x27fe18.ATVOu,
+                fontColor: _0x27fe18.pUbvc
+            },
+            {
+                id: 'c',
+                text: 'C',
+                nodeShape: 0x1,
+                width: 0x50,
+                height: 0x3c
+            },
+            {
+                id: 'e',
+                text: 'E',
+                nodeShape: 0x0,
+                width: 0x96,
+                height: 0x96
+            }
+        ],
+        lines: [
+            {
+                from: 'a',
+                to: 'b',
+                text: _0x27fe18.QursO,
+                color: _0x27fe18.ATVOu
+            },
+            {
+                from: 'a',
+                to: 'c',
+                text: _0x27fe18.UyxcV
+            },
+            {
+                from: 'a',
+                to: 'e',
+                text: _0x27fe18.BxzAH
+            },
+            {
+                from: 'b',
+                to: 'e',
+                text: '',
+                color: _0x27fe18.TRmUC
+            }
+        ]
+    };
+    this.$refs.graphRef.setJsonData(_0x12ebbf, _0x2f141f => {
+    });
+};
+h[_0x195f('0x5b')][_0x195f('0x50')] = function () {
+    this.graphOptions.toolBarDirection = this.toolBarDirection, this.graphOptions.toolBarPositionH = this.toolBarPositionH, this.graphOptions.toolBarPositionV = this.toolBarPositionV;
+    const _0x542b2f = this.$refs.graphRef.getInstance();
+    _0x542b2f.setOptions(this.graphOptions), _0x542b2f.refresh();
+};
+h[_0x195f('0x59')][_0x195f('0x4f')] = function () {
+    return this.isMobile ? 0x78 : 0x28;
+};
+p[_0x195f('0x63')] = !0x1;
+var c = n(h, l, s, !0x1, b, null, null, null);
+function b(_0x3c06f5) {
+    for (let _0x35ebb9 in a)
+        this[_0x35ebb9] = a[_0x35ebb9];
+}
+const _ = function () {
+    return c[_0x195f('0x64')];
+}();
+export {
+    _ as default
+};
