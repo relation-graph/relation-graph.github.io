@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "vite",
-    "start": "vite",
-    "build": "vite preview --base ./",
+    "start": "vite preview --base ./",
+    "build": "echo 'OK'",
     "preview": "vite preview --base ./"
   },
   "author": "",
