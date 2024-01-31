@@ -5,12 +5,5 @@
       "src": "**/*",
       "use": "@vercel/static"
     }
-  ],
-  "routes": [
-    {
-      "src": "/assets/(.*)",
-      "headers": { "Cache-Control": "public, max-age=31556952, immutable" },
-      "continue": true
-    }
   ]
 }
