@@ -8,12 +8,9 @@
   ],
   "routes": [
     {
-      "src": "/(.*)",
-      "dest": "/:1"
-    },
-    {
-      "src": "^\\/(.*)\\/assets.*$",
-      "dest": "/$1/assets/:splat"
+      "src": "/assets/(.*)",
+      "headers": { "Cache-Control": "public, max-age=31556952, immutable" },
+      "continue": true
     }
   ]
 }
