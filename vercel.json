@@ -6,10 +6,18 @@
       "use": "@vercel/static"
     }
   ],
-  "routes": [
+  "rewrites": [
     {
-      "src": "/(.*)$",
-      "dest": "/$"
+      "source": "^\\/$",
+      "destination": "/index.html"
+    },
+    {
+      "source": "^\\/(.*)\\/assets.*$",
+      "destination": "/$1/assets/:splat"
+    },
+    {
+      "source": "^\\/(.*)$",
+      "destination": "/$1"
     }
   ]
 }
