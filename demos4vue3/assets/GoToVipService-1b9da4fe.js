@@ -6,9 +6,9 @@
 *     Examples can provide you with additional inspiration, facilitate you to complete your development goals, and save you work time
 *     The following code may be easy to crack after taking some time, but compared to the following solution, it is obviously not cost-effective to learn knowledge by cracking the code:
 *     https://relation-graph.com/#/vip-services
-*     Because your time is very valuable, becoming a member and directly viewing the code to learn and communicating directly to solve problems is the most efficient way to learn and work. 
+*     Because your time is very valuable, becoming a member and directly viewing the code to learn and communicating directly to solve problems is the most efficient way to learn and work.
 *     We look forward to your joining.
-* 
+*
 *  亲爱的朋友：
 *      很高兴你能看到这段文字，这说明你是非常热爱技术、热爱学习的。
 *      组件中所有示例都可以通过文档 + typescript描述找到相关配置及用法
@@ -46,7 +46,7 @@ import {
     p as _0x5281c2,
     j as _0x422b6d
 } from './index-706c501c.js';
-import { _ as _0x25d2b } from './_plugin-vue_export-helper-c27b6911.js';
+import { _ as _0x25d2b } from './plugin-vue_export-helper-c27b6911.js';
 const _0x5eadf2 = {};
 _0x5eadf2[_0x2dc2aa(0x1ac) + 't'] = _0x2dc2aa(0x1c0), _0x5eadf2[_0x2dc2aa(0x1b9)] = _0x2dc2aa(0x1fd), _0x5eadf2[_0x2dc2aa(0x1e9) + 't'] = _0x2dc2aa(0x1b3), _0x5eadf2[_0x2dc2aa(0x1cb)] = _0x2dc2aa(0x1a3) + _0x2dc2aa(0x1a4);
 const _0x514b23 = {};

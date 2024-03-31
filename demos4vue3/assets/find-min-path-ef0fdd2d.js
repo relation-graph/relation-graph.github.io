@@ -6,9 +6,9 @@
 *     Examples can provide you with additional inspiration, facilitate you to complete your development goals, and save you work time
 *     The following code may be easy to crack after taking some time, but compared to the following solution, it is obviously not cost-effective to learn knowledge by cracking the code:
 *     https://relation-graph.com/#/vip-services
-*     Because your time is very valuable, becoming a member and directly viewing the code to learn and communicating directly to solve problems is the most efficient way to learn and work. 
+*     Because your time is very valuable, becoming a member and directly viewing the code to learn and communicating directly to solve problems is the most efficient way to learn and work.
 *     We look forward to your joining.
-* 
+*
 *  亲爱的朋友：
 *      很高兴你能看到这段文字，这说明你是非常热爱技术、热爱学习的。
 *      组件中所有示例都可以通过文档 + typescript描述找到相关配置及用法
@@ -47,7 +47,7 @@ import {
     n as _0x1c59c1,
     t as _0x22b92b
 } from './index-706c501c.js';
-import { _ as _0x25f74d } from './_plugin-vue_export-helper-c27b6911.js';
+import { _ as _0x25f74d } from './plugin-vue_export-helper-c27b6911.js';
 import './VipMinPathSearchToolBarButtons-2e9569a3.js';
 const _0x18b3b9 = {};
 _0x18b3b9[_0xc2496e(0x2f0)] = _0xc2496e(0x2b4) + ')';
