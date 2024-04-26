@@ -1,0 +1,1 @@
+.relation-graph .my-node-flash-style{animation:myFlash .6s infinite;-webkit-animation:myFlash 2s infinite}@keyframes myFlash{0%{opacity:1}50%{opacity:.4}to{opacity:1}}
