@@ -1,0 +1,221 @@
+
+/**
+* Dear friends:
+*     I’m glad you can read this text. It shows that you love technology and learning very much.
+*     All examples in the component can be found through documentation + typescript description related configuration and usage
+*     Examples can provide you with additional inspiration, facilitate you to complete your development goals, and save you work time
+*     The following code may be easy to crack after taking some time, but compared to the following solution, it is obviously not cost-effective to learn knowledge by cracking the code:
+*     https://relation-graph.com/#/vip-services
+*     Because your time is very valuable, becoming a member and directly viewing the code to learn and communicating directly to solve problems is the most efficient way to learn and work. 
+*     We look forward to your joining.
+* 
+*  亲爱的朋友：
+*      很高兴你能看到这段文字，这说明你是非常热爱技术、热爱学习的。
+*      组件中所有示例都可以通过文档 + typescript描述找到相关配置及用法
+*      示例可以为你提供额外的灵感、方便你完成开发目标、节省你工作时间
+*      以下代码也许花些时间很容易破解，但相比下面这个方案，通过破解代码来学习知识显然是不划算的：
+*      https://relation-graph.com/#/vip-services
+*      因为你的时间非常宝贵，开通会员直接查看代码学习、直接沟通解决问题，是最最高效的学习和工作方法，期待你的加入。
+**/
+              var _0x5935d0 = _0xdd49;
+function _0x5d5c() {
+    var _0x336cbf = [
+        'DYLRw',
+        'Line\x20Text',
+        'wLZQm',
+        'hLineShape',
+        'yTxoV',
+        '_self',
+        'vjUkq',
+        'lkkyX',
+        '296iBBhbl',
+        'DfEts',
+        'onLineClic',
+        'setJsonDat',
+        'ick',
+        'LpfyI',
+        'yellow',
+        'calc(100vh',
+        'yyIOT',
+        'lwgoz',
+        '$refs',
+        'aph',
+        'fontColor',
+        'nodes',
+        '1035VfRuUc',
+        'on-node-cl',
+        'center',
+        'border',
+        '16142022xkjjrq',
+        'height',
+        'jZGiX',
+        'allowShowD',
+        '9906zASgFu',
+        'ugcep',
+        'RelationGr',
+        'exports',
+        'ton',
+        'UcbaN',
+        'UpQOw',
+        'zmPHM',
+        '#43a2f1',
+        'ment',
+        '#67C23A',
+        'color',
+        'from',
+        'ownloadBut',
+        'options',
+        '381404vUGrtr',
+        'rootId',
+        'div',
+        '156443HZMJjl',
+        'allowSwitc',
+        'width',
+        'Panel',
+        'defaultJun',
+        '159879ZBUTte',
+        'on-line-cl',
+        'graphRef',
+        '$createEle',
+        '1505200MwclhC',
+        '2562321qoQhRh',
+        'graphOptio',
+        'V3Simple',
+        'onNodeClic',
+        'debug',
+        'oint',
+        'isShowCode',
+        'ctionPoint',
+        'hJunctionP',
+        'layout',
+        'text',
+        'nodeShape',
+        'lines',
+        'showGraph',
+        'layoutName',
+        'borderColo',
+        'log'
+    ];
+    _0x5d5c = function () {
+        return _0x336cbf;
+    };
+    return _0x5d5c();
+}
+(function (_0x1faf53, _0xdaa215) {
+    var _0x16e07e = _0xdd49, _0x2e17e4 = _0x1faf53();
+    while (!![]) {
+        try {
+            var _0xd7946d = parseInt(_0x16e07e(0xc7)) / (0x2305 + -0xed * 0x6 + -0x1d76) + parseInt(_0x16e07e(0xcb)) / (-0xde1 + 0x1f * 0xb5 + -0x808) + -parseInt(_0x16e07e(0xcc)) / (0x1036 * -0x2 + 0x27 * -0x3b + 0x296c) + -parseInt(_0x16e07e(0xbf)) / (-0x1191 + 0x3a4 + 0xdf1) + parseInt(_0x16e07e(0xa8)) / (0x1 * 0x761 + 0x1abc + 0x4 * -0x886) * (-parseInt(_0x16e07e(0xb0)) / (0x84f + 0xe35 * -0x1 + 0x5ec)) + -parseInt(_0x16e07e(0xc2)) / (0x22b7 + -0x871 * 0x3 + -0x95d) * (parseInt(_0x16e07e(0x9a)) / (-0x83f + -0x1 * -0x15d3 + -0x33 * 0x44)) + parseInt(_0x16e07e(0xac)) / (0x10 * 0x89 + 0x928 + -0x1f7 * 0x9);
+            if (_0xd7946d === _0xdaa215)
+                break;
+            else
+                _0x2e17e4['push'](_0x2e17e4['shift']());
+        } catch (_0x2e5769) {
+            _0x2e17e4['push'](_0x2e17e4['shift']());
+        }
+    }
+}(_0x5d5c, 0x107241 + -0x4ccc0 + -0x3 * 0xe454));
+import { n as _0x38273e } from './index-8d6c0911.js';
+var l = function () {
+        var _0x885c95 = _0xdd49, _0x3afaa3 = {
+                'wLZQm': function (_0x330206, _0x2ca986, _0x25f1df) {
+                    return _0x330206(_0x2ca986, _0x25f1df);
+                },
+                'yTxoV': _0x885c95(0xc1),
+                'DfEts': function (_0x39c86e, _0x5130ca, _0x78eb5f, _0x4b14d4, _0x5cd8d5) {
+                    return _0x39c86e(_0x5130ca, _0x78eb5f, _0x4b14d4, _0x5cd8d5);
+                },
+                'UpQOw': _0x885c95(0xa1) + ')',
+                'yyIOT': _0x885c95(0xb2) + _0x885c95(0xa5),
+                'ugcep': _0x885c95(0xc9)
+            }, _0x4919eb = this, _0x42b581 = _0x4919eb[_0x885c95(0xca) + _0x885c95(0xb9)], _0x114e38 = _0x4919eb[_0x885c95(0x97)]['_c'] || _0x42b581, _0x5959b8 = {};
+        return _0x5959b8[_0x885c95(0xbe)] = _0x4919eb[_0x885c95(0xcd) + 'ns'], _0x5959b8[_0x885c95(0xa9) + _0x885c95(0x9e)] = _0x4919eb[_0x885c95(0xcf) + 'k'], _0x5959b8[_0x885c95(0xc8) + _0x885c95(0x9e)] = _0x4919eb[_0x885c95(0x9c) + 'k'], _0x3afaa3[_0x885c95(0x94)](_0x114e38, _0x3afaa3[_0x885c95(0x96)], [_0x3afaa3[_0x885c95(0x9b)](_0x114e38, _0x3afaa3[_0x885c95(0x96)], { 'staticStyle': { 'height': _0x3afaa3[_0x885c95(0xb6)] } }, [_0x3afaa3[_0x885c95(0x94)](_0x114e38, _0x3afaa3[_0x885c95(0xa2)], {
+                    'ref': _0x3afaa3[_0x885c95(0xb1)],
+                    'attrs': _0x5959b8
+                })], -0x572 * 0x1 + -0x239 * -0x3 + 0x3 * -0x68)]);
+    }, a = [];
+function _0xdd49(_0xb96a7e, _0x8342cd) {
+    var _0x53ce1e = _0x5d5c();
+    return _0xdd49 = function (_0x30b87e, _0x559177) {
+        _0x30b87e = _0x30b87e - (-0x24 * -0x6 + 0x235b + 0x1 * -0x23ad);
+        var _0x5af973 = _0x53ce1e[_0x30b87e];
+        return _0x5af973;
+    }, _0xdd49(_0xb96a7e, _0x8342cd);
+}
+const r = {
+        'name': _0x5935d0(0xce),
+        'components': {},
+        'data'() {
+            var _0x3cea93 = _0x5935d0, _0x554e3d = {};
+            _0x554e3d[_0x3cea93(0x9f)] = _0x3cea93(0xab), _0x554e3d[_0x3cea93(0xa3)] = _0x3cea93(0xaa);
+            var _0x46fbf4 = _0x554e3d, _0x4030bc = {};
+            _0x4030bc[_0x3cea93(0xd0)] = !(0x1118 + -0x323 + -0x26 * 0x5e), _0x4030bc[_0x3cea93(0xc3) + _0x3cea93(0x95)] = !(-0x1 * -0x1c2c + 0x67 * 0x1 + -0x23 * 0xd1), _0x4030bc[_0x3cea93(0xc3) + _0x3cea93(0x89) + _0x3cea93(0x86)] = !(0x1b66 + 0x167a + -0x31e0), _0x4030bc[_0x3cea93(0xaf) + _0x3cea93(0xbd) + _0x3cea93(0xb4)] = !(0x7d * -0xd + -0x49 * 0x3d + -0x1 * -0x17be), _0x4030bc[_0x3cea93(0xc6) + _0x3cea93(0x88)] = _0x46fbf4[_0x3cea93(0x9f)], _0x4030bc[_0x3cea93(0x8a)] = {}, _0x4030bc[_0x3cea93(0x8a)][_0x3cea93(0x8f)] = _0x46fbf4[_0x3cea93(0xa3)];
+            var _0x34fb8a = {};
+            return _0x34fb8a[_0x3cea93(0x87) + _0x3cea93(0xc5)] = !(-0x2125 + 0x25 * -0x94 + 0x368a), _0x34fb8a[_0x3cea93(0xcd) + 'ns'] = _0x4030bc, _0x34fb8a;
+        },
+        'mounted'() {
+            var _0x497c1a = _0x5935d0;
+            this[_0x497c1a(0x8e)]();
+        },
+        'methods': {
+            'showGraph'() {
+                var _0x234464 = _0x5935d0, _0x4c76df = {};
+                _0x4c76df[_0x234464(0xae)] = _0x234464(0xa0), _0x4c76df[_0x234464(0xb5)] = _0x234464(0xb8), _0x4c76df[_0x234464(0x92)] = _0x234464(0x93), _0x4c76df[_0x234464(0x98)] = _0x234464(0xba);
+                var _0x270d27 = _0x4c76df, _0x376ce8 = {};
+                _0x376ce8['id'] = 'a', _0x376ce8[_0x234464(0x8b)] = 'A', _0x376ce8[_0x234464(0x90) + 'r'] = _0x270d27[_0x234464(0xae)];
+                var _0x2f955a = {};
+                _0x2f955a['id'] = 'b', _0x2f955a[_0x234464(0x8b)] = 'B', _0x2f955a[_0x234464(0xbb)] = _0x270d27[_0x234464(0xb5)], _0x2f955a[_0x234464(0xa6)] = _0x270d27[_0x234464(0xae)];
+                var _0xd931ea = {};
+                _0xd931ea['id'] = 'c', _0xd931ea[_0x234464(0x8b)] = 'C', _0xd931ea[_0x234464(0x8c)] = 0x1, _0xd931ea[_0x234464(0xc4)] = 0x50, _0xd931ea[_0x234464(0xad)] = 0x3c;
+                var _0x1d43e8 = {};
+                _0x1d43e8['id'] = 'e', _0x1d43e8[_0x234464(0x8b)] = 'E', _0x1d43e8[_0x234464(0x8c)] = 0x0, _0x1d43e8[_0x234464(0xc4)] = 0x96, _0x1d43e8[_0x234464(0xad)] = 0x96;
+                var _0x5453e2 = {};
+                _0x5453e2[_0x234464(0xbc)] = 'a', _0x5453e2['to'] = 'b', _0x5453e2[_0x234464(0x8b)] = _0x270d27[_0x234464(0x92)], _0x5453e2[_0x234464(0xbb)] = _0x270d27[_0x234464(0xb5)];
+                var _0x448a34 = {};
+                _0x448a34[_0x234464(0xbc)] = 'a', _0x448a34['to'] = 'c', _0x448a34[_0x234464(0x8b)] = _0x270d27[_0x234464(0x92)];
+                var _0x4cbb81 = {};
+                _0x4cbb81[_0x234464(0xbc)] = 'a', _0x4cbb81['to'] = 'e', _0x4cbb81[_0x234464(0x8b)] = _0x270d27[_0x234464(0x92)];
+                var _0x1f2ef3 = {};
+                _0x1f2ef3[_0x234464(0xbc)] = 'b', _0x1f2ef3['to'] = 'e', _0x1f2ef3[_0x234464(0x8b)] = '', _0x1f2ef3[_0x234464(0xbb)] = _0x270d27[_0x234464(0x98)];
+                var _0xbd23f7 = {};
+                _0xbd23f7[_0x234464(0xc0)] = 'a', _0xbd23f7[_0x234464(0xa7)] = [
+                    _0x376ce8,
+                    _0x2f955a,
+                    _0xd931ea,
+                    _0x1d43e8
+                ], _0xbd23f7[_0x234464(0x8d)] = [
+                    _0x5453e2,
+                    _0x448a34,
+                    _0x4cbb81,
+                    _0x1f2ef3
+                ];
+                const _0x2c67f4 = _0xbd23f7;
+                this[_0x234464(0xa4)][_0x234464(0xc9)][_0x234464(0x9d) + 'a'](_0x2c67f4, _0x34e318 => {
+                });
+            },
+            'onNodeClick'(_0x18ddbe, _0x396867) {
+                var _0x11c88c = _0x5935d0, _0x5ccf94 = {};
+                _0x5ccf94[_0x11c88c(0x99)] = _0x11c88c(0xcf) + 'k:';
+                var _0x655fa0 = _0x5ccf94;
+                console[_0x11c88c(0x91)](_0x655fa0[_0x11c88c(0x99)], _0x18ddbe);
+            },
+            'onLineClick'(_0x1160c1, _0x50bcf1, _0x32f252) {
+                var _0x23bc0e = _0x5935d0, _0x492067 = {};
+                _0x492067[_0x23bc0e(0xb7)] = _0x23bc0e(0x9c) + 'k:';
+                var _0x5cca02 = _0x492067;
+                console[_0x23bc0e(0x91)](_0x5cca02[_0x23bc0e(0xb7)], _0x1160c1);
+            }
+        }
+    }, n = {};
+var c = _0x38273e(r, l, a, !(0x1598 + -0x17df + 0x248), s, null, null, null);
+function s(_0xf148f5) {
+    for (let _0x40213f in n)
+        this[_0x40213f] = n[_0x40213f];
+}
+const d = (function () {
+    var _0x2601ef = _0x5935d0;
+    return c[_0x2601ef(0xb3)];
+}());
+export {
+    d as default
+};
