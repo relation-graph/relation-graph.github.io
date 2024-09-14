@@ -1,0 +1,291 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "upList": [],
+    "middleList": [
+      {
+        "id": "燃料电池_1",
+        "text": "燃料电池组装",
+        "rootId": "燃料电池_0",
+        "rootName": "燃料电池",
+        "canClick": true,
+        "children": [
+          {
+            "id": "燃料电池_7",
+            "text": "系统辅件",
+            "rootId": "燃料电池_0",
+            "rootName": "燃料电池",
+            "canClick": false,
+            "children": [
+              {
+                "id": "燃料电池_9",
+                "text": "燃料电池控制器",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_10",
+                "text": "燃料电池用增湿器",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_12",
+                "text": "功率调节器",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_8",
+                "text": "氢气循环泵",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_11",
+                "text": "空气压缩机",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "燃料电池_2",
+            "text": "电堆",
+            "rootId": "燃料电池_0",
+            "rootName": "燃料电池",
+            "canClick": true,
+            "children": [
+              {
+                "id": "燃料电池_6",
+                "text": "气体扩散层",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_4",
+                "text": "铂钛催化剂",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_5",
+                "text": "双极板",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_3",
+                "text": "膜电极",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_34",
+                "text": "质子交换膜",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "燃料电池_13",
+            "text": "驱动系统",
+            "rootId": "燃料电池_0",
+            "rootName": "燃料电池",
+            "canClick": false,
+            "children": [
+              {
+                "id": "燃料电池_17",
+                "text": "动力电池",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_15",
+                "text": "电机控制器",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_14",
+                "text": "驱动电机",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_16",
+                "text": "直流变换器（DC/DC)",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "燃料电池_18",
+        "text": "燃料电池系统集成",
+        "rootId": "燃料电池_0",
+        "rootName": "燃料电池",
+        "canClick": true,
+        "children": [
+          {
+            "id": "燃料电池_19",
+            "text": "整机制造",
+            "rootId": "燃料电池_0",
+            "rootName": "燃料电池",
+            "canClick": false,
+            "children": []
+          },
+          {
+            "id": "燃料电池_20",
+            "text": "系统集成",
+            "rootId": "燃料电池_0",
+            "rootName": "燃料电池",
+            "canClick": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "downList": [
+      {
+        "id": "燃料电池_21",
+        "text": "燃料电池应用",
+        "rootId": "燃料电池_0",
+        "rootName": "燃料电池",
+        "canClick": true,
+        "children": [
+          {
+            "id": "燃料电池_22",
+            "text": "交通动力",
+            "rootId": "燃料电池_0",
+            "rootName": "燃料电池",
+            "canClick": false,
+            "children": [
+              {
+                "id": "燃料电池_25",
+                "text": "有轨电车",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_23",
+                "text": "乘用车",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_26",
+                "text": "特种车",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_27",
+                "text": "无人机电源",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_24",
+                "text": "物流车",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_28",
+                "text": "船舶动力系统",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "燃料电池_29",
+            "text": "分布式电站",
+            "rootId": "燃料电池_0",
+            "rootName": "燃料电池",
+            "canClick": true,
+            "children": [
+              {
+                "id": "燃料电池_31",
+                "text": "热点联供",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "燃料电池_30",
+                "text": "电网调峰",
+                "rootId": "燃料电池_0",
+                "rootName": "燃料电池",
+                "canClick": true,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "燃料电池_32",
+            "text": "便携电源",
+            "rootId": "燃料电池_0",
+            "rootName": "燃料电池",
+            "canClick": true,
+            "children": []
+          },
+          {
+            "id": "燃料电池_33",
+            "text": "工业用氢",
+            "rootId": "燃料电池_0",
+            "rootName": "燃料电池",
+            "canClick": true,
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}
