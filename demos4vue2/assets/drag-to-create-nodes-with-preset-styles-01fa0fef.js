@@ -1,0 +1,20 @@
+
+/**
+* Dear friends:
+*     I’m glad you can read this text. It shows that you love technology and learning very much.
+*     All examples in the component can be found through documentation + typescript description related configuration and usage
+*     Examples can provide you with additional inspiration, facilitate you to complete your development goals, and save you work time
+*     The following code may be easy to crack after taking some time, but compared to the following solution, it is obviously not cost-effective to learn knowledge by cracking the code:
+*     https://relation-graph.com/#/vip-services
+*     Because your time is very valuable, becoming a member and directly viewing the code to learn and communicating directly to solve problems is the most efficient way to learn and work. 
+*     We look forward to your joining.
+* 
+*  亲爱的朋友：
+*      很高兴你能看到这段文字，这说明你是非常热爱技术、热爱学习的。
+*      组件中所有示例都可以通过文档 + typescript描述找到相关配置及用法
+*      示例可以为你提供额外的灵感、方便你完成开发目标、节省你工作时间
+*      以下代码也许花些时间很容易破解，但相比下面这个方案，通过破解代码来学习知识显然是不划算的：
+*      https://relation-graph.com/#/vip-services
+*      因为你的时间非常宝贵，开通会员直接查看代码学习、直接沟通解决问题，是最最高效的学习和工作方法，期待你的加入。
+**/
+              var _0x5bca70=_0x4fc2;(function(_0x2327d0,_0x5a2608){var _0x37f445=_0x4fc2,_0x315993=_0x2327d0();while(!![]){try{var _0x2d7c33=parseInt(_0x37f445(0x13a))/0x1*(parseInt(_0x37f445(0x131))/0x2)+parseInt(_0x37f445(0x127))/0x3+-parseInt(_0x37f445(0x136))/0x4*(parseInt(_0x37f445(0x12b))/0x5)+parseInt(_0x37f445(0x129))/0x6+parseInt(_0x37f445(0x12e))/0x7*(-parseInt(_0x37f445(0x12c))/0x8)+-parseInt(_0x37f445(0x124))/0x9+-parseInt(_0x37f445(0x13c))/0xa*(parseInt(_0x37f445(0x134))/0xb);if(_0x2d7c33===_0x5a2608)break;else _0x315993['push'](_0x315993['shift']());}catch(_0x3c99f4){_0x315993['push'](_0x315993['shift']());}}}(_0x5a08,0x87196));function _0x5a08(){var _0x17b0b8=['graphRef','920220fuLhaL','24TGqjXL','300px','1694077kujFJy','RelationGraph','exports','10652qAvmLP','graph-plug','fake-root','11PzuFtO','\x20请从左侧拖入节点到画布区域\x20','4PKmkUa','calc(100vh)','150px','ObjectEdit','110ngXtnR','showGraph','4826230NbdWRW','5226741uyVWwf','div','42c510af','2955132jrzgyl','_self','5735466JhpLHp'];_0x5a08=function(){return _0x17b0b8;};return _0x5a08();}import _0x9dc804 from'./drag-to-create-toolbar-d2522799.js';function _0x4fc2(_0x3297c3,_0x342f49){var _0x5a08e1=_0x5a08();return _0x4fc2=function(_0x4fc27a,_0x2ed600){_0x4fc27a=_0x4fc27a-0x124;var _0x2d279f=_0x5a08e1[_0x4fc27a];return _0x2d279f;},_0x4fc2(_0x3297c3,_0x342f49);}import{M as _0x526224}from'./MyDemoPanel-2c5fe386.js';import{n as _0x33aa64}from'./index-34dfe90a.js';var i=function(){var _0x2ef918=_0x4fc2,_0x3450ba=this,_0x90d170=_0x3450ba['$createElement'],_0x2e16ac=_0x3450ba[_0x2ef918(0x128)]['_c']||_0x90d170;return _0x2e16ac('div',[_0x2e16ac('div',{'staticStyle':{'height':_0x2ef918(0x137)}},[_0x2e16ac(_0x2ef918(0x12f),{'ref':_0x2ef918(0x12a),'attrs':{'options':_0x3450ba['graphOptions']},'scopedSlots':_0x3450ba['_u']([{'key':_0x2ef918(0x132),'fn':function(){var _0x29a27f=_0x2ef918;return[_0x2e16ac('MyDemoPanel',{'attrs':{'width':_0x29a27f(0x12d),'left':_0x29a27f(0x138)}},[_0x2e16ac(_0x29a27f(0x125),{'staticClass':'c-content'},[_0x3450ba['_v'](_0x29a27f(0x135))])]),_0x2e16ac('DragToCreateToolbar')];},'proxy':!0x0}])})],0x1)]);},c=[];const l={'debug':!0x1,'allowSwitchLineShape':!0x0,'allowSwitchJunctionPoint':!0x0,'allowShowDownloadButton':!0x0,'defaultJunctionPoint':'border'},p={'name':_0x5bca70(0x139),'components':{'MyDemoPanel':_0x526224,'DragToCreateToolbar':_0x9dc804},'data'(){return{'graphOptions':l};},'mounted'(){var _0x416fd9=_0x5bca70;this[_0x416fd9(0x13b)]();},'methods':{'showGraph'(){var _0x475c90=_0x5bca70;const _0x27531c={'nodes':[{'id':_0x475c90(0x133),'text':'','opacity':0x0}],'lines':[]};this['$refs']['graphRef']['setJsonData'](_0x27531c,_0x5b2382=>{});}}},r={};var _=_0x33aa64(p,i,c,!0x1,h,_0x5bca70(0x126),null,null);function h(_0x41bf96){for(let _0x29ba39 in r)this[_0x29ba39]=r[_0x29ba39];}const g=(function(){var _0x498b47=_0x5bca70;return _[_0x498b47(0x130)];}());export{g as default};
