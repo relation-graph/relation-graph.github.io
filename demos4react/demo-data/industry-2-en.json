@@ -1,0 +1,776 @@
+{
+  "code": 0,
+  "msg": "success",
+  "data": {
+    "MID": [
+      {
+        "id": "UAV_47",
+        "text": "UAV Manufacturing",
+        "children": [
+          {
+            "id": "UAV_75",
+            "text": "UAV Whole Machine Manufacturing",
+            "children": [
+              {
+                "id": "UAV_90",
+                "text": "Structure Layout",
+                "children": [
+                  {
+                    "id": "UAV_92",
+                    "text": "vtol",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_91",
+                    "text": "Fixed-wing UAV",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "UAV_76",
+                "text": "Military UAV",
+                "children": [
+                  {
+                    "id": "UAV_79",
+                    "text": "Communication and Electronic Warfare UAV",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_78",
+                    "text": "Attack UAV",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_80",
+                    "text": "Integrated Reconnaissance and Strike UAV",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_77",
+                    "text": "Reconnaissance UAV",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_81",
+                    "text": "Other Auxiliary UAVs",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "UAV_82",
+                "text": "Civil UAV",
+                "children": [
+                  {
+                    "id": "UAV_88",
+                    "text": "Logistics UAV",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_89",
+                    "text": "Scientific Research Remote Sensing UAV",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_85",
+                    "text": "Surveying UAV",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_87",
+                    "text": "Firefighting UAV",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_83",
+                    "text": "Agricultural UAV",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_84",
+                    "text": "Inspection UAV",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_86",
+                    "text": "Entertainment and Sightseeing UAV",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1UAV_48",
+            "text": "Unmanned Subsystem Manufacturing",
+            "children": [
+              {
+                "id": "1UAV_49",
+                "text": "Power System",
+                "children": [
+                  {
+                    "id": "1UAV_50",
+                    "text": "Jet Engine",
+                    "children": []
+                  },
+                  {
+                    "id": "1UAV_51",
+                    "text": "Piston Engine",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "UAV_48",
+            "text": "Unmanned Subsystem Manufacturing",
+            "children": [
+              {
+                "id": "UAV_49",
+                "text": "Power System",
+                "children": [
+                  {
+                    "id": "UAV_50",
+                    "text": "Jet Engine",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_51",
+                    "text": "Piston Engine",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "UAV_52",
+                "text": "Flight Assurance System",
+                "children": [
+                  {
+                    "id": "UAV_53",
+                    "text": "Power System",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_54",
+                    "text": "Hydraulic System",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_55",
+                    "text": "Fuel System",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_56",
+                    "text": "Environmental Control System",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_57",
+                    "text": "Wheel Brake System",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "UAV_58",
+                "text": "Avionics System",
+                "children": [
+                  {
+                    "id": "UAV_67",
+                    "text": "Data Processing",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_70",
+                    "text": "Electronic Countermeasures",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_64",
+                    "text": "Data Link",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_61",
+                    "text": "Onboard Navigation System",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_68",
+                    "text": "Mission Computing",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_60",
+                    "text": "Flight Control System",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_62",
+                    "text": "Radar System",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_59",
+                    "text": "Onboard Communication System",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_65",
+                    "text": "Target Recognition",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_69",
+                    "text": "Weapon Guidance",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_63",
+                    "text": "Electro-optical System",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_66",
+                    "text": "Warning System",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "UAV_71",
+                "text": "Ground Control System (Ground Station)",
+                "children": [
+                  {
+                    "id": "UAV_73",
+                    "text": "Remote Control",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_74",
+                    "text": "Display Control System",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_72",
+                    "text": "Signal Relay System",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "21UAV_48",
+            "text": "Unmanned Subsystem Manufacturing",
+            "children": [
+              {
+                "id": "21UAV_49",
+                "text": "Power System",
+                "children": [
+                  {
+                    "id": "21UAV_50",
+                    "text": "Jet Engine",
+                    "children": []
+                  },
+                  {
+                    "id": "21UAV_51",
+                    "text": "Piston Engine",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DOWN": [
+      {
+        "id": "UAV_93",
+        "text": "UAV Application Service",
+        "children": [
+          {
+            "id": "UAV_107",
+            "text": "Anti UAV System",
+            "children": [
+              {
+                "id": "UAV_112",
+                "text": "Attack UAV",
+                "children": [
+                  {
+                    "id": "UAV_114",
+                    "text": "Missile Damage",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_113",
+                    "text": "Laser Damage",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "UAV_108",
+                "text": "Soft Kill System",
+                "children": [
+                  {
+                    "id": "UAV_109",
+                    "text": "Electromagnetic Interference",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_111",
+                    "text": "Aerial Net Capture",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_110",
+                    "text": "System Hijacking",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1UAV_107",
+            "text": "Anti UAV System",
+            "children": [
+              {
+                "id": "1UAV_112",
+                "text": "Attack UAV",
+                "children": [
+                  {
+                    "id": "1UAV_114",
+                    "text": "Missile Damage",
+                    "children": []
+                  },
+                  {
+                    "id": "1UAV_113",
+                    "text": "Laser Damage",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "1UAV_108",
+                "text": "Soft Kill System",
+                "children": [
+                  {
+                    "id": "1UAV_109",
+                    "text": "Electromagnetic Interference",
+                    "children": []
+                  },
+                  {
+                    "id": "1UAV_111",
+                    "text": "Aerial Net Capture",
+                    "children": []
+                  },
+                  {
+                    "id": "1UAV_110",
+                    "text": "System Hijacking",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "UAV_99",
+            "text": "Market Service",
+            "children": [
+              {
+                "id": "UAV_101",
+                "text": "Patrol Emergency",
+                "children": []
+              },
+              {
+                "id": "UAV_103",
+                "text": "Geographic Surveying and Mapping",
+                "children": []
+              },
+              {
+                "id": "UAV_106",
+                "text": "Entertainment Performance",
+                "children": []
+              },
+              {
+                "id": "UAV_104",
+                "text": "Logistics Transportation",
+                "children": []
+              },
+              {
+                "id": "UAV_105",
+                "text": "Defense Security",
+                "children": []
+              },
+              {
+                "id": "UAV_100",
+                "text": "Agricultural Plant Protection",
+                "children": []
+              },
+              {
+                "id": "UAV_102",
+                "text": "Environmental Monitoring",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "UAV_94",
+            "text": "After Sales Service",
+            "children": [
+              {
+                "id": "UAV_95",
+                "text": "Technical Support",
+                "children": []
+              },
+              {
+                "id": "UAV_98",
+                "text": "Equipment Rental",
+                "children": []
+              },
+              {
+                "id": "UAV_97",
+                "text": "Maintenance Service",
+                "children": []
+              },
+              {
+                "id": "UAV_96",
+                "text": "Flight Training",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "UP": [
+      {
+        "id": "UAV_1",
+        "text": "UAV Research and Design",
+        "children": [
+          {
+            "id": "UAV_9",
+            "text": "UAV Components and Accessories",
+            "children": [
+              {
+                "id": "UAV_10",
+                "text": "Body Materials",
+                "children": [
+                  {
+                    "id": "UAV_14",
+                    "text": "Composite Materials",
+                    "children": [
+                      {
+                        "id": "UAV_16",
+                        "text": "Aramid Fiber",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_15",
+                        "text": "Carbon Fiber Reinforced Plastic (CFRP)",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_17",
+                        "text": "EPP Foam",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "UAV_11",
+                    "text": "Metal Materials",
+                    "children": [
+                      {
+                        "id": "UAV_12",
+                        "text": "Aluminum Alloy",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_13",
+                        "text": "Titanium Alloy",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "UAV_18",
+                "text": "Powertrain Components",
+                "children": [
+                  {
+                    "id": "UAV_22",
+                    "text": "Electric Motor",
+                    "children": [
+                      {
+                        "id": "UAV_25",
+                        "text": "Electric Motor",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_23",
+                        "text": "Lithium Battery",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_24",
+                        "text": "Hydrogen Fuel Cell",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "UAV_19",
+                    "text": "Internal Combustion Engine",
+                    "children": [
+                      {
+                        "id": "UAV_21",
+                        "text": "Transmission",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_20",
+                        "text": "Driveshaft",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "UAV_26",
+                "text": "Electronic Components",
+                "children": [
+                  {
+                    "id": "UAV_27",
+                    "text": "Main Control Chip",
+                    "children": [
+                      {
+                        "id": "UAV_28",
+                        "text": "MCU",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_29",
+                        "text": "MPU",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_31",
+                        "text": "DSP",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_30",
+                        "text": "FPGA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "UAV_44",
+                    "text": "Functional Software",
+                    "children": [
+                      {
+                        "id": "UAV_45",
+                        "text": "Flight Control Software",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_46",
+                        "text": "Sensor Driver Software",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "UAV_32",
+                    "text": "Sensors",
+                    "children": [
+                      {
+                        "id": "UAV_38",
+                        "text": "Magnetometer",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_43",
+                        "text": "Airspeed Indicator",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_41",
+                        "text": "Magnetometer",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_37",
+                        "text": "Accelerometer",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_35",
+                        "text": "Infrared Chip",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_34",
+                        "text": "Baseband Chip",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_39",
+                        "text": "Barometer",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_33",
+                        "text": "RF Chip",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_42",
+                        "text": "GNSS",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_36",
+                        "text": "Photoelectric Chip",
+                        "children": []
+                      },
+                      {
+                        "id": "UAV_40",
+                        "text": "Gyroscope",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "UAV_2",
+            "text": "UAV Technology Research and Development",
+            "children": [
+              {
+                "id": "UAV_3",
+                "text": "Basic Research",
+                "children": [
+                  {
+                    "id": "UAV_4",
+                    "text": "Theoretical Research",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_5",
+                    "text": "Aerodynamic Research",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "UAV_6",
+                "text": "Applied Research",
+                "children": [
+                  {
+                    "id": "UAV_7",
+                    "text": "Conceptual Design",
+                    "children": []
+                  },
+                  {
+                    "id": "UAV_8",
+                    "text": "Model Development",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "3UAV_2",
+            "text": "UAV Technology Research and Development",
+            "children": [
+              {
+                "id": "3UAV_3",
+                "text": "Basic Research",
+                "children": [
+                  {
+                    "id": "3UAV_4",
+                    "text": "Theoretical Research",
+                    "children": []
+                  },
+                  {
+                    "id": "3UAV_5",
+                    "text": "Aerodynamic Research",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "3UAV_6",
+                "text": "Applied Research",
+                "children": [
+                  {
+                    "id": "3UAV_7",
+                    "text": "Conceptual Design",
+                    "children": []
+                  },
+                  {
+                    "id": "3UAV_8",
+                    "text": "Model Development",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "43UAV_2",
+            "text": "UAV Technology Research and Development",
+            "children": [
+              {
+                "id": "43UAV_3",
+                "text": "Basic Research",
+                "children": [
+                  {
+                    "id": "43UAV_4",
+                    "text": "Theoretical Research",
+                    "children": []
+                  },
+                  {
+                    "id": "43UAV_5",
+                    "text": "Aerodynamic Research",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "43UAV_6",
+                "text": "Applied Research",
+                "children": [
+                  {
+                    "id": "43UAV_7",
+                    "text": "Conceptual Design",
+                    "children": []
+                  },
+                  {
+                    "id": "43UAV_8",
+                    "text": "Model Development",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

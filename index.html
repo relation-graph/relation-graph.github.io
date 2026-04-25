@@ -1,1 +1,49 @@
-hi relation-graph 2023
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Redirecting to relation-graph.com</title>
+    <style>
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+        }
+
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: Arial, Helvetica, sans-serif;
+            color: #1f2937;
+        }
+
+        a {
+            color: #2563eb;
+        }
+    </style>
+</head>
+<body>
+    <p>You will be redirected to relation-graph.com in <span id="countdown">3</span> seconds, <a href="https://relation-graph.com/">go now</a>.</p>
+    <script>
+        (function () {
+            var redirectUrl = 'https://relation-graph.com/';
+            var secondsLeft = 3;
+            var countdown = document.getElementById('countdown');
+
+            var timer = window.setInterval(function () {
+                secondsLeft -= 1;
+
+                if (secondsLeft <= 0) {
+                    window.clearInterval(timer);
+                    window.location.href = redirectUrl;
+                    return;
+                }
+
+                countdown.textContent = secondsLeft;
+            }, 1000);
+        }());
+    </script>
+</body>
+</html>

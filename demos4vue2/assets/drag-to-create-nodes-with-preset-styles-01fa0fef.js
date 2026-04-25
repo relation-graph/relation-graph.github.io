@@ -1,0 +1,20 @@
+
+/**
+* Dear friends:
+*     I’m glad you can read this text. It shows that you love technology and learning very much.
+*     All examples in the component can be found through documentation + typescript description related configuration and usage
+*     Examples can provide you with additional inspiration, facilitate you to complete your development goals, and save you work time
+*     The following code may be easy to crack after taking some time, but compared to the following solution, it is obviously not cost-effective to learn knowledge by cracking the code:
+*     https://relation-graph.com/#/vip-services
+*     Because your time is very valuable, becoming a member and directly viewing the code to learn and communicating directly to solve problems is the most efficient way to learn and work. 
+*     We look forward to your joining.
+* 
+*  亲爱的朋友：
+*      很高兴你能看到这段文字，这说明你是非常热爱技术、热爱学习的。
+*      组件中所有示例都可以通过文档 + typescript描述找到相关配置及用法
+*      示例可以为你提供额外的灵感、方便你完成开发目标、节省你工作时间
+*      以下代码也许花些时间很容易破解，但相比下面这个方案，通过破解代码来学习知识显然是不划算的：
+*      https://relation-graph.com/#/vip-services
+*      因为你的时间非常宝贵，开通会员直接查看代码学习、直接沟通解决问题，是最最高效的学习和工作方法，期待你的加入。
+**/
+              function _0x3157(_0x1c4034,_0x29114c){var _0x568273=_0x5682();return _0x3157=function(_0x315751,_0x3582cc){_0x315751=_0x315751-0xe3;var _0xadd692=_0x568273[_0x315751];return _0xadd692;},_0x3157(_0x1c4034,_0x29114c);}var _0x3815c8=_0x3157;(function(_0x36c245,_0x5421bf){var _0x63357a=_0x3157,_0x250c67=_0x36c245();while(!![]){try{var _0x4306a2=-parseInt(_0x63357a(0xfc))/0x1+parseInt(_0x63357a(0xfa))/0x2*(parseInt(_0x63357a(0xf6))/0x3)+parseInt(_0x63357a(0xf0))/0x4*(-parseInt(_0x63357a(0xef))/0x5)+-parseInt(_0x63357a(0xf2))/0x6*(-parseInt(_0x63357a(0xeb))/0x7)+parseInt(_0x63357a(0xfb))/0x8*(parseInt(_0x63357a(0xe6))/0x9)+-parseInt(_0x63357a(0xf9))/0xa+parseInt(_0x63357a(0xff))/0xb*(parseInt(_0x63357a(0xf4))/0xc);if(_0x4306a2===_0x5421bf)break;else _0x250c67['push'](_0x250c67['shift']());}catch(_0x49d2b9){_0x250c67['push'](_0x250c67['shift']());}}}(_0x5682,0x3e6d1));function _0x5682(){var _0x606e37=['300px','border','2369286TWHQKo','setJsonData','\x20请从左侧拖入节点到画布区域\x20','div','graphRef','1421fdkojE','$createElement','exports','ObjectEdit','55270PpcRHi','68WwVqOl','calc(100vh)','444LIRsnA','42c510af','10997916DjgrsH','RelationGraph','84pOtKZw','150px','showGraph','4846910wnnNzX','5176zRNlGU','8VhyttH','338927ugBMMd','fake-root','DragToCreateToolbar','11lreYza','MyDemoPanel'];_0x5682=function(){return _0x606e37;};return _0x5682();}import _0x48b9e0 from'./drag-to-create-toolbar-d2522799.js';import{M as _0x1359c4}from'./MyDemoPanel-2c5fe386.js';import{n as _0xdb88a3}from'./index-34dfe90a.js';var i=function(){var _0x42f81d=_0x3157,_0x4810df=this,_0x542d5a=_0x4810df[_0x42f81d(0xec)],_0x2bf7a2=_0x4810df['_self']['_c']||_0x542d5a;return _0x2bf7a2(_0x42f81d(0xe9),[_0x2bf7a2(_0x42f81d(0xe9),{'staticStyle':{'height':_0x42f81d(0xf1)}},[_0x2bf7a2(_0x42f81d(0xf5),{'ref':_0x42f81d(0xea),'attrs':{'options':_0x4810df['graphOptions']},'scopedSlots':_0x4810df['_u']([{'key':'graph-plug','fn':function(){var _0x6fd9cb=_0x42f81d;return[_0x2bf7a2(_0x6fd9cb(0xe3),{'attrs':{'width':_0x6fd9cb(0xe4),'left':_0x6fd9cb(0xf7)}},[_0x2bf7a2('div',{'staticClass':'c-content'},[_0x4810df['_v'](_0x6fd9cb(0xe8))])]),_0x2bf7a2(_0x6fd9cb(0xfe))];},'proxy':!0x0}])})],0x1)]);},c=[];const l={'debug':!0x1,'allowSwitchLineShape':!0x0,'allowSwitchJunctionPoint':!0x0,'allowShowDownloadButton':!0x0,'defaultJunctionPoint':_0x3815c8(0xe5)},p={'name':_0x3815c8(0xee),'components':{'MyDemoPanel':_0x1359c4,'DragToCreateToolbar':_0x48b9e0},'data'(){return{'graphOptions':l};},'mounted'(){var _0x4fa4cb=_0x3815c8;this[_0x4fa4cb(0xf8)]();},'methods':{'showGraph'(){var _0x1c8c4c=_0x3815c8;const _0x500c93={'nodes':[{'id':_0x1c8c4c(0xfd),'text':'','opacity':0x0}],'lines':[]};this['$refs'][_0x1c8c4c(0xea)][_0x1c8c4c(0xe7)](_0x500c93,_0x1839d6=>{});}}},r={};var _=_0xdb88a3(p,i,c,!0x1,h,_0x3815c8(0xf3),null,null);function h(_0x521c62){for(let _0x5bcb0f in r)this[_0x5bcb0f]=r[_0x5bcb0f];}const g=(function(){var _0x12897c=_0x3815c8;return _[_0x12897c(0xed)];}());export{g as default};

@@ -1,0 +1,385 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "upList": [
+      {
+        "id": "航空材料_1",
+        "text": "航空材料原料",
+        "rootId": "航空材料_0",
+        "rootName": "航空材料",
+        "canClick": true,
+        "children": [
+          {
+            "id": "航空材料_10",
+            "text": "航空复合材料原料",
+            "rootId": "航空材料_0",
+            "rootName": "航空材料",
+            "canClick": true,
+            "children": [
+              {
+                "id": "航空材料_14",
+                "text": "芳纶纤维",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_13",
+                "text": "碳化硅纤维",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_11",
+                "text": "高性能碳纤维",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_12",
+                "text": "双马来酰亚胺树脂",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "航空材料_2",
+            "text": "航空金属原料",
+            "rootId": "航空材料_0",
+            "rootName": "航空材料",
+            "canClick": true,
+            "children": [
+              {
+                "id": "航空材料_9",
+                "text": "镍材",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_3",
+                "text": "原料钢",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_8",
+                "text": "镁材",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_4",
+                "text": "铝锭",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_5",
+                "text": "海绵钛",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_6",
+                "text": "稀土",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_7",
+                "text": "锂材",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "middleList": [
+      {
+        "id": "航空材料_15",
+        "text": "航空材料制备",
+        "rootId": "航空材料_0",
+        "rootName": "航空材料",
+        "canClick": true,
+        "children": [
+          {
+            "id": "航空材料_16",
+            "text": "航空金属材料",
+            "rootId": "航空材料_0",
+            "rootName": "航空材料",
+            "canClick": true,
+            "children": [
+              {
+                "id": "航空材料_18",
+                "text": "铸造件",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_21",
+                "text": "增材制造",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_20",
+                "text": "机加工",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_19",
+                "text": "钣金件",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_17",
+                "text": "锻造件",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "航空材料_22",
+            "text": "航空复合材料",
+            "rootId": "航空材料_0",
+            "rootName": "航空材料",
+            "canClick": true,
+            "children": [
+              {
+                "id": "航空材料_25",
+                "text": "碳纤维增强陶瓷复合材料",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_23",
+                "text": "碳纤维增强塑料（CFRP）",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_24",
+                "text": "碳纤维增强金属复合材料",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "downList": [
+      {
+        "id": "航空材料_26",
+        "text": "航空材料应用",
+        "rootId": "航空材料_0",
+        "rootName": "航空材料",
+        "canClick": true,
+        "children": [
+          {
+            "id": "航空材料_39",
+            "text": "其他功能材料",
+            "rootId": "航空材料_0",
+            "rootName": "航空材料",
+            "canClick": false,
+            "children": [
+              {
+                "id": "航空材料_40",
+                "text": "透波材料",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": [
+                  {
+                    "id": "航空材料_41",
+                    "text": "氮化物陶瓷基复合材料",
+                    "rootId": "航空材料_0",
+                    "rootName": "航空材料",
+                    "canClick": false,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "航空材料_42",
+                "text": "吸波材料",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": [
+                  {
+                    "id": "航空材料_44",
+                    "text": "球形合金粉末",
+                    "rootId": "航空材料_0",
+                    "rootName": "航空材料",
+                    "canClick": true,
+                    "children": []
+                  },
+                  {
+                    "id": "航空材料_43",
+                    "text": "微米级羰基铁粉",
+                    "rootId": "航空材料_0",
+                    "rootName": "航空材料",
+                    "canClick": true,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "航空材料_45",
+                "text": "橡胶轮胎增强材料",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "航空材料_27",
+            "text": "航空结构材料",
+            "rootId": "航空材料_0",
+            "rootName": "航空材料",
+            "canClick": true,
+            "children": [
+              {
+                "id": "航空材料_28",
+                "text": "碳纤维及复合材料",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": false,
+                "children": [
+                  {
+                    "id": "航空材料_30",
+                    "text": "碳纤维增强金属复合材料",
+                    "rootId": "航空材料_0",
+                    "rootName": "航空材料",
+                    "canClick": true,
+                    "children": []
+                  },
+                  {
+                    "id": "航空材料_29",
+                    "text": "碳纤维增强塑料（CFRP）",
+                    "rootId": "航空材料_0",
+                    "rootName": "航空材料",
+                    "canClick": true,
+                    "children": []
+                  },
+                  {
+                    "id": "航空材料_31",
+                    "text": "碳纤维增强陶瓷复合材料",
+                    "rootId": "航空材料_0",
+                    "rootName": "航空材料",
+                    "canClick": true,
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "航空材料_32",
+                "text": "金属基复合材料",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_34",
+                "text": "新型铝锂合金材料",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_33",
+                "text": "钛合金材料",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "航空材料_35",
+            "text": "航空发动机材料",
+            "rootId": "航空材料_0",
+            "rootName": "航空材料",
+            "canClick": false,
+            "children": [
+              {
+                "id": "航空材料_38",
+                "text": "钛合金材料",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_36",
+                "text": "高温合金材料",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              },
+              {
+                "id": "航空材料_37",
+                "text": "陶瓷基复合材料",
+                "rootId": "航空材料_0",
+                "rootName": "航空材料",
+                "canClick": true,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
