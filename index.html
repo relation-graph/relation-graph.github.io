@@ -25,6 +25,25 @@
     </style>
 </head>
 <body>
-    <p>You are about to be redirected to relation-graph.com, <a href="https://relation-graph.com/">go now</a>.</p>
+    <p>You will be redirected to relation-graph.com in <span id="countdown">3</span> seconds, <a href="https://relation-graph.com/">go now</a>.</p>
+    <script>
+        (function () {
+            var redirectUrl = 'https://relation-graph.com/';
+            var secondsLeft = 3;
+            var countdown = document.getElementById('countdown');
+
+            var timer = window.setInterval(function () {
+                secondsLeft -= 1;
+
+                if (secondsLeft <= 0) {
+                    window.clearInterval(timer);
+                    window.location.href = redirectUrl;
+                    return;
+                }
+
+                countdown.textContent = secondsLeft;
+            }, 1000);
+        }());
+    </script>
 </body>
 </html>
